@@ -1,5 +1,5 @@
  1 способ:
-  В нашем проекте в окошке слева, есть Scratches ana Consoles раскрываемб, далее правйо кнопкой по Scratches->New->HTTP Request.
+  В нашем проекте в окошке слева, есть Scratches ana Consoles раскрываем, далее правой кнопкой по Scratches->New->HTTP Request.
   Далее add request->Post text body
   Редактируем запрос:
     POST меняем на PUT
